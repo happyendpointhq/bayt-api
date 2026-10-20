@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "data": {
+    "menaCount": 17,
+    "internationalCount": 35,
+    "countries": [
+      {
+        "iso": "ae",
+        "name": "UAE",
+        "jobsCount": 10068,
+        "url": "https://www.bayt.com/en/uae/jobs/",
+        "path": "/en/uae/jobs/",
+        "slug": "uae",
+        "group": "mena"
+      },
+      {
+        "iso": "sa",
+        "name": "Saudi Arabia",
+        "jobsCount": 7486,
+        "url": "https://www.bayt.com/en/saudi-arabia/jobs/",
+        "path": "/en/saudi-arabia/jobs/",
+        "slug": "saudi-arabia",
+        "group": "mena"
+      },
+      {
+        "iso": "eg",
+        "name": "Egypt",
+        "jobsCount": 3212,
+        "url": "https://www.bayt.com/en/egypt/jobs/",
+        "path": "/en/egypt/jobs/",
+        "slug": "egypt",
+        "group": "mena"
+      }
+    ]
+  }
+}

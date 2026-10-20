@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "data": {
+    "count": 10068,
+    "appliedFilters": {
+      "country": [
+        "ae"
+      ]
+    },
+    "facets": {
+      "industries": [
+        {
+          "value": "33",
+          "label": "Other Business Support Services",
+          "count": 8611
+        },
+        {
+          "value": "17",
+          "label": "Recruitment & Employee Placement Agency",
+          "count": 402
+        }
+      ],
+      "careerLevels": [
+        {
+          "value": "2",
+          "label": "Mid career",
+          "count": 330
+        },
+        {
+          "value": "1",
+          "label": "Entry level",
+          "count": 61
+        }
+      ],
+      "cities": [
+        {
+          "value": "ae,4,0",
+          "label": "Dubai",
+          "count": 4118
+        },
+        {
+          "value": "ae,1,0",
+          "label": "Abu Dhabi",
+          "count": 1502
+        }
+      ],
+      "companies": [
+        {
+          "value": "accenture",
+          "label": "Accenture",
+          "count": 2568
+        }
+      ]
+    }
+  }
+}

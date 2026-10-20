@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "data": {
+    "jobId": "5473846",
+    "title": "Sales Executive – Lubricants ( Automotive )",
+    "postedAt": "2026-08-16T11:48:27.000Z",
+    "expiresText": "Application closes in 59 days",
+    "daysUntilExpiry": 59,
+    "expiresAt": "2026-10-14T11:48:27.000Z",
+    "url": "https://www.bayt.com/en/qatar/jobs/sales-executive-lubricants-automotive-5473846/",
+    "countryIso": "qa",
+    "locationFormatted": "Al Wakrah, Qatar",
+    "careerLevelId": "2",
+    "careerLevel": "Mid career",
+    "salaryRange": "QAR 3,640 - QAR 5,460",
+    "remoteType": "onsite",
+    "isAggregated": false,
+    "descriptionHtml": "<p>We are hiring a dynamic and results-driven Sales Executive for a leading lubricant brand in Doha, Qatar…</p>",
+    "descriptionText": "We are hiring a dynamic and results-driven Sales Executive for a leading lubricant brand in Doha, Qatar…",
+    "skillsHtml": "<ul><li>Achieve monthly sales targets individually, in line with company pricing and payment policies.</li>…</ul>",
+    "skills": [
+      "Achieve monthly sales targets individually, in line with company pricing and payment policies.",
+      "Build and maintain relationships with workshops, garages and fleet operators."
+    ],
+    "aiSummary": "Elevate your career as a Sales Executive for a leading lubricant brand in Doha, Qatar. This role demands strong sales expertise…",
+    "hasAiSummary": true,
+    "details": {
+      "jobRole": {
+        "label": "job role",
+        "value": "Sales"
+      },
+      "jobOption": {
+        "label": "employment type",
+        "value": "Full time"
+      },
+      "jobNumberOfVacancies": {
+        "label": "Number of Vacancies",
+        "value": "2"
+      }
+    },
+    "preferredCandidates": {
+      "jobLevel": {
+        "label": "Career level",
+        "value": "Mid career"
+      },
+      "jobWorkExperience": {
+        "label": "Years of experience",
+        "value": "5+ years"
+      },
+      "jobGender": {
+        "label": "Gender",
+        "value": "Male"
+      }
+    },
+    "similarJobsSearchUrl": "/en/qatar/jobs/sales-jobs-in-al-wakrah/",
+    "company": {
+      "companyId": "2393147",
+      "name": "Seef Services Co",
+      "size": "1-9 Employees",
+      "location": "Al Wakrah, Qatar",
+      "logoUrl": "https://secure.b8cdn.com/images/logo/15/2312015_logo_1785766077_n.png",
+      "url": "https://www.bayt.com/company/company/view/?lang=en&company-url=seef-services-co-2312015"
+    }
+  }
+}

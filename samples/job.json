@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "jobId": "5497355",
+    "title": "L2 Desktop Support Engineer",
+    "countryIso": "ae",
+    "cityId": "ae,4,0",
+    "locationFormatted": "Dubai, UAE",
+    "roleId": "21",
+    "industryIds": [
+      "25"
+    ],
+    "descriptionHtml": "<p>We’re looking for an experienced <b>Level 2 EUC Support Engineer</b> to deliver reliable onsite IT support, troubleshoot technical issues, and ensure a seamless end-user experience across designated office locations.</p><p><br /></p><p><b>What You’ll Do</b></p><p><br /></p><ul><li>Provide Level 2...",
+    "descriptionText": "We’re looking for an experienced Level 2 EUC Support Engineer to deliver reliable onsite IT support, troubleshoot technical issues, and ensure a seamless end-user experience across designated office locations.\nWhat You’ll Do\nProvide Level 2 onsite technical support for desktops, laptops, peripherals...",
+    "skillsHtml": "<p><b>What You Need</b></p><p><br /></p><ul><li>Proven experience in <b>Level 2 End User Computing, Desktop Support, or onsite IT support</b>.</li><li>Strong troubleshooting skills across hardware, software, operating systems, applications, and peripherals.</li><li>Hands-on experience with <b>Micros...",
+    "skills": [
+      "Proven experience in Level 2 End User Computing, Desktop Support, or onsite IT support.",
+      "Strong troubleshooting skills across hardware, software, operating systems, applications, and peripherals.",
+      "Hands-on experience with Microsoft Windows and Apple macOS."
+    ],
+    "employmentTypeId": "1",
+    "employmentType": "Full time",
+    "salaryBandCode": "3",
+    "salaryBandUsdMin": 1000,
+    "salaryBandUsdMax": 1500,
+    "salaryBandUsdInferred": false,
+    "vacancies": 1,
+    "careerLevelId": "2",
+    "careerLevel": "Mid career",
+    "experienceMinYears": 2,
+    "experienceMaxYears": 10,
+    "education": null,
+    "educationDegree": null,
+    "residenceLocations": [],
+    "genderId": null,
+    "genderFilterId": null,
+    "specialities": [],
+    "questionnaireId": "2236171",
+    "hasQuestionnaire": true
+  }
+}

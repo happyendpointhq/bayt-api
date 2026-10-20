@@ -1,0 +1,279 @@
+{
+  "success": true,
+  "data": {
+    "count": 6966,
+    "page": 1,
+    "pageSize": 30,
+    "maxPage": 233,
+    "resultWindowExhausted": false,
+    "atResultWindowEnd": false,
+    "jobs": [
+      {
+        "jobId": "5497461",
+        "title": "EHSS Trainer",
+        "titleTranslated": null,
+        "summaryEn": "Elevate your career as an EHSS Trainer specializing in EHS training and compliance. With over a decade of experience in industrial safety, particularly in gasification and power generation, you will play a crucial role in shaping the safety culture in Jizan, Saudi Arabia. Your expertise in training development and delivery will empower workers and enhance safety standards across the organization.",
+        "summaryTranslated": null,
+        "descriptionSnippet": "We are seeking a passionate and dedicated EHSS Trainer to join our dynamic team in Jizan, Saudi Arabia.      Work Experience:  ✓ 10–12 years of professional experience in EHS training, compliance, or industrial safety  roles, preferably within gasif",
+        "descriptionStripped": null,
+        "url": "https://www.bayt.com/en/saudi-arabia/jobs/ehss-trainer-5497461/",
+        "path": "/en/saudi-arabia/jobs/ehss-trainer-5497461/",
+        "postedAt": "2026-10-20T13:39:43.000Z",
+        "postedAtEpoch": 1792503583,
+        "daysOld": 0,
+        "countryIso": "sa",
+        "country": "Saudi Arabia",
+        "city": "Jizan",
+        "area": null,
+        "location": "Jizan · Saudi Arabia",
+        "locationFormatted": "Jizan, Saudi Arabia",
+        "provinceId": "57",
+        "careerLevelId": "3",
+        "careerLevelIdRaw": "3",
+        "careerLevel": "Management",
+        "experienceMinYears": 8,
+        "experienceMaxYears": 20,
+        "remoteType": "onsite",
+        "remoteTypeRaw": "0",
+        "isRemote": false,
+        "salary": {
+          "bandCode": "0",
+          "bandUsdMin": null,
+          "bandUsdMax": null,
+          "bandUsdInferred": false,
+          "currencyId": 127,
+          "currencyCode": null,
+          "formatted": "Unspecified",
+          "isSpecified": false
+        },
+        "company": {
+          "name": "Confidential Company",
+          "companyId": null,
+          "groupId": null,
+          "logoUrl": "https://secure.b8cdn.com/bayt/assets/company-8xv0p287/images/confidentialCompanyLogo.svg",
+          "placeholderLogoUrl": "https://secure.b8cdn.com/bayt/assets/jobs-boryey7t/images/no-logo.svg",
+          "logoFilename": null,
+          "profileUrl": null,
+          "isConfidential": true
+        },
+        "isEasyApply": true,
+        "isExternal": false,
+        "isAggregated": false,
+        "isHighlighted": false,
+        "isBranded": false,
+        "citizenshipLabel": null,
+        "specialisationId": "957",
+        "blueCollarCategoryId": null,
+        "applicantCount": null,
+        "isSaved": false,
+        "isApplied": false,
+        "appliedDate": null,
+        "managesOthers": null,
+        "relevanceWeight": null
+      }
+    ],
+    "appliedFilters": {
+      "country": [
+        "sa"
+      ]
+    },
+    "criteriaId": "5413899946813604580",
+    "suggestedKeywords": [],
+    "hasJobAlert": false,
+    "facets": {
+      "industries": [
+        {
+          "value": "33",
+          "label": "Other Business Support Services",
+          "count": 5456
+        },
+        {
+          "value": "1",
+          "label": "Accounting",
+          "count": 384
+        },
+        {
+          "value": "23",
+          "label": "Hospitality & Accomodation",
+          "count": 294
+        },
+        {
+          "value": "1116",
+          "label": "Market Research",
+          "count": 233
+        }
+      ],
+      "careerLevels": [
+        {
+          "value": "2",
+          "label": "Mid career",
+          "count": 283
+        },
+        {
+          "value": "1",
+          "label": "Entry level",
+          "count": 104
+        },
+        {
+          "value": "3",
+          "label": "Management",
+          "count": 103
+        },
+        {
+          "value": "6",
+          "label": "Fresh graduate",
+          "count": 30
+        }
+      ],
+      "companyTypes": [
+        {
+          "value": "1",
+          "label": "Employer (private sector)",
+          "count": 544
+        },
+        {
+          "value": "2",
+          "label": "Recruitment agency",
+          "count": 71
+        },
+        {
+          "value": "6",
+          "label": "Non-profit organization",
+          "count": 3
+        },
+        {
+          "value": "3",
+          "label": "Employer (public sector)",
+          "count": 1
+        }
+      ],
+      "employmentTypes": [
+        {
+          "value": "1",
+          "label": "Full time",
+          "count": 1004
+        },
+        {
+          "value": "5",
+          "label": "Part time",
+          "count": 18
+        },
+        {
+          "value": "3",
+          "label": "Contractor",
+          "count": 4
+        },
+        {
+          "value": "6",
+          "label": "Freelance",
+          "count": 3
+        }
+      ],
+      "datePosted": [
+        {
+          "value": "1",
+          "label": "Past 30 days",
+          "count": 2409
+        },
+        {
+          "value": "2",
+          "label": "Past 7 days",
+          "count": 807
+        },
+        {
+          "value": "3",
+          "label": "Past 24 hours",
+          "count": 169
+        }
+      ],
+      "countries": [
+        {
+          "value": "us",
+          "label": "USA",
+          "count": 1045
+        },
+        {
+          "value": "ae",
+          "label": "UAE",
+          "count": 14175
+        },
+        {
+          "value": "sa",
+          "label": "Saudi Arabia",
+          "count": 6966
+        },
+        {
+          "value": "eg",
+          "label": "Egypt",
+          "count": 4364
+        }
+      ],
+      "provinces": [
+        {
+          "value": "sa,5,0",
+          "label": "Riyadh",
+          "count": 2820
+        },
+        {
+          "value": "sa,2,0",
+          "label": "Jeddah",
+          "count": 590
+        },
+        {
+          "value": "sa,1,0",
+          "label": "Eastern Province",
+          "count": 238
+        },
+        {
+          "value": "sa,32,0",
+          "label": "Qatif",
+          "count": 213
+        }
+      ],
+      "cities": [
+        {
+          "value": "sa,5,15",
+          "label": "Al Olaya",
+          "count": 15
+        },
+        {
+          "value": "sa,2,7",
+          "label": "Ar-Rawdha",
+          "count": 10
+        },
+        {
+          "value": "sa,5,8",
+          "label": "Al-Selay",
+          "count": 9
+        },
+        {
+          "value": "sa,5,3",
+          "label": "Industrial Area-Kharj Road",
+          "count": 8
+        }
+      ],
+      "companies": [
+        {
+          "value": "join solutions",
+          "label": "JOIN SOLUTIONS",
+          "count": 302
+        },
+        {
+          "value": "accor",
+          "label": "Accor",
+          "count": 209
+        },
+        {
+          "value": "jobskey consultancy",
+          "label": "Jobskey Consultancy",
+          "count": 200
+        },
+        {
+          "value": "dar al riyadh",
+          "label": "Dar Al Riyadh",
+          "count": 172
+        }
+      ]
+    }
+  }
+}

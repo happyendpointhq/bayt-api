@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "data": {
+    "count": 10068,
+    "page": 1,
+    "pageSize": 30,
+    "maxPage": 334,
+    "resultWindowExhausted": true,
+    "atResultWindowEnd": false,
+    "appliedFilters": {
+      "country": [
+        "ae"
+      ],
+      "career_level": [
+        "2"
+      ]
+    },
+    "criteriaId": "7f3c0a11",
+    "suggestedKeywords": [
+      "sales",
+      "accountant"
+    ],
+    "jobs": [
+      {
+        "jobId": "5473846",
+        "title": "Senior Estimator",
+        "url": "https://www.bayt.com/en/uae/jobs/senior-estimator-5473846/",
+        "postedAt": "2026-08-15T06:12:41.000Z",
+        "daysOld": 1,
+        "locationFormatted": "Dubai, United Arab Emirates",
+        "careerLevel": "Mid career",
+        "remoteType": "onsite",
+        "isEasyApply": true,
+        "salary": {
+          "bandCode": "7",
+          "bandUsdMin": 4000,
+          "bandUsdMax": 5000,
+          "currencyCode": "AED",
+          "formatted": "AED 14,690 - AED 18,363",
+          "isSpecified": true
+        },
+        "company": {
+          "name": "Accenture",
+          "companyId": "4023641",
+          "isConfidential": false
+        }
+      }
+    ]
+  }
+}

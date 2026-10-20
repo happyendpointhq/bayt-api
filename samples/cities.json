@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "countryIso": "ae",
+    "countryName": "UAE",
+    "countryJobsCount": 10068,
+    "cities": [
+      {
+        "id": "ae,4,0",
+        "name": "Dubai",
+        "jobsCount": 4118,
+        "url": "https://www.bayt.com/en/uae/jobs/jobs-in-dubai/",
+        "path": "/en/uae/jobs/jobs-in-dubai/",
+        "slug": "dubai",
+        "isCountryTotal": false
+      },
+      {
+        "id": "ae,1,0",
+        "name": "Abu Dhabi",
+        "jobsCount": 1592,
+        "url": "https://www.bayt.com/en/uae/jobs/jobs-in-abu-dhabi/",
+        "path": "/en/uae/jobs/jobs-in-abu-dhabi/",
+        "slug": "abu-dhabi",
+        "isCountryTotal": false
+      }
+    ]
+  }
+}
